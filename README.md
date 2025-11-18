@@ -12,11 +12,13 @@
 
 💼 Currently seeking **PFE Internship** opportunities in **FinTech, SaaS, or Scalable Web Applications**
 
-🔭 Recently built a **real-time trading platform** handling 1,000+ concurrent users with 99.9% uptime
+🔭 Built production-ready applications serving **5,000+ users** with **99.9% uptime**
 
 ⚡ Passionate about **microservices architecture**, **DevOps automation**, and **performance optimization**
 
 📍 Based in Monastir, Tunisia | Open to remote opportunities
+
+🌐 **[View My Portfolio](https://portfolio-roan-psi-26.vercel.app/)**
 
 ---
 
@@ -37,6 +39,7 @@
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -49,6 +52,22 @@
 
 ## 🏆 Featured Projects
 
+### 💰 ExpensesTracker - Smart Personal Finance Manager
+> Full-stack FinTech application with AI-powered receipt scanning and intelligent budget alerts
+
+**Tech:** Spring Boot | React | PostgreSQL | JWT | Material-UI  
+**Highlights:** 
+- 💳 Multi-account transaction tracking with receipt uploads
+- 🎯 Smart budget management with 80%/100% threshold alerts
+- 🔐 JWT authentication with refresh tokens
+- 📊 Real-time analytics with interactive charts (Recharts)
+- 🌓 Dark/Light mode with fully responsive design
+- 🚀 Deployed on Vercel (Frontend) + Railway (Backend)
+
+**[Live Demo](your-live-url)** | **[Repository](https://github.com/ayhemnouira/ExpensesTracker)**
+
+---
+
 ### 🔹 TrackWise - Real-Time Trading Platform
 > Enterprise-grade trading platform with real-time data processing
 
@@ -57,15 +76,23 @@
 - 🚀 Handles 1,000+ concurrent users with sub-200ms latency
 - 📊 99.9% uptime with optimized backend APIs
 - 🔐 Secure authentication and transaction processing
+- ⚡ 30% improvement in response time through API optimization
+
+**[Repository](https://github.com/ayhemnouira/TrackWise)**
+
+---
 
 ### 🔹 SwiftCart - Microservices E-Commerce
-> Scalable e-commerce platform built with 9 Spring Boot microservices
+> Scalable e-commerce platform with Spring Cloud microservices architecture
 
 **Tech:** Spring Cloud | Docker | Eureka | API Gateway | MongoDB  
 **Highlights:**
-- 🏗️ Service discovery and dynamic routing
+- 🏗️ 9 microservices with service discovery (Eureka)
 - 📦 Containerized architecture with database-per-service pattern
-- ⚡ High scalability and fault tolerance
+- ⚡ Dynamic routing with Spring Cloud Gateway
+- 🔄 High scalability and fault tolerance
+
+**[Repository](https://github.com/ayhemnouira/SwiftCart)**
 
 ---
 
@@ -73,9 +100,15 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayhemnouira&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayhemnouira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhemnouira&layout=compact&theme=radical&hide_border=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhemnouira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=ayhemnouira&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
 
 </div>
 
@@ -83,15 +116,27 @@
 
 ## 💼 Professional Experience
 
-**Full-Stack Engineering Intern** @ Anypli *(Feb 2025 - May 2025)*
-- Developed scalable FinTech application supporting 5,000+ users
-- Integrated AI/OCR for automated expense tracking (40% reduction in manual input)
-- Established CI/CD pipeline reducing deployment time by 35%
+### 🔹 Full-Stack Engineering Intern @ **Anypli** *(Feb 2025 - May 2025)*
+- Developed scalable FinTech application supporting **5,000+ users**
+- Integrated **AI/OCR module** for receipt scanning, reducing manual input by **40%**
+- Established **CI/CD pipeline** (GitHub Actions + Docker), cutting deployment time by **35%**
+- Implemented **SonarQube** for code quality enforcement
+- Optimized frontend performance (**20% improvement** in core web vitals)
 
-**Software Development Engineer Intern** @ Sync *(Jun 2024 - Aug 2024)*
-- Built OAuth 2.0 integration increasing sign-up conversion by 15%
-- Optimized RESTful APIs improving data retrieval by 30%
-- Maintained 99% production uptime
+### 🔹 Software Development Engineer Intern @ **Sync** *(Jun 2024 - Aug 2024)*
+- Built **OAuth 2.0 integration** increasing sign-up conversion by **15%**
+- Optimized **RESTful APIs** improving data retrieval efficiency by **30%**
+- Maintained **PrestaShop** environment with **99% production uptime**
+
+---
+
+## 📈 Contribution Activity
+
+```text
+🔥 177 contributions in 2025
+📦 20+ public repositories
+⭐ Building scalable, production-ready applications
+```
 
 ---
 
@@ -99,7 +144,8 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ayhem-nouira](https://www.linkedin.com/in/ayhemnouira/))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayhemnouira/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-roan-psi-26.vercel.app/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayhemnouira9@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayhemnouira)
 
@@ -111,6 +157,6 @@
   
   ### 💡 Open to PFE Internship Opportunities | Full-Stack Development | Cloud & DevOps
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=ayhemnouira&color=brightgreen&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=ayhemnouira&color=58A6FF&style=for-the-badge)
   
 </div>
