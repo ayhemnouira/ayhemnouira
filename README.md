@@ -55,7 +55,7 @@
 ### 💰 ExpensesTracker - Smart Personal Finance Manager
 > Full-stack FinTech application with AI-powered receipt scanning and intelligent budget alerts
 
-**Tech:** Spring Boot | React | PostgreSQL | JWT | Material-UI  
+**Tech:** Spring Boot | React | MySQL | JWT | Material-UI  
 **Highlights:** 
 - 💳 Multi-account transaction tracking with receipt uploads
 - 🎯 Smart budget management with 80%/100% threshold alerts
@@ -64,7 +64,7 @@
 - 🌓 Dark/Light mode with fully responsive design
 - 🚀 Deployed on Vercel (Frontend) + Railway (Backend)
 
-**[Live Demo]([your-live-url](https://expansestrackera.vercel.app/))** | **[Repository](https://github.com/ayhemnouira/expansesTracker)**
+**[Live Demo](https://expansestrackera.vercel.app/)** | **[Repository](https://github.com/ayhemnouira/expansesTracker)**
 
 ---
 
