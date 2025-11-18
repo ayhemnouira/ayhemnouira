@@ -64,7 +64,7 @@
 - 🌓 Dark/Light mode with fully responsive design
 - 🚀 Deployed on Vercel (Frontend) + Railway (Backend)
 
-**[Live Demo](your-live-url)** | **[Repository](https://github.com/ayhemnouira/ExpensesTracker)**
+**[Live Demo]([your-live-url](https://expansestrackera.vercel.app/))** | **[Repository](https://github.com/ayhemnouira/expansesTracker)**
 
 ---
 
