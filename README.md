@@ -82,6 +82,7 @@
 
 ---
 
+<!-- 
 ### 🔹 SwiftCart - Microservices E-Commerce
 > Scalable e-commerce platform with Spring Cloud microservices architecture
 
@@ -93,6 +94,7 @@
 - 🔄 High scalability and fault tolerance
 
 **[Repository](https://github.com/ayhemnouira/SwiftCart)**
+-->
 
 ---
 
