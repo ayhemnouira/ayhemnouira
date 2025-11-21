@@ -71,7 +71,7 @@
 ### 🔹 TrackWise - Real-Time Trading Platform
 > Enterprise-grade trading platform with real-time data processing
 
-**Tech:** Spring Boot | React.js | MongoDB | AWS | Docker  
+**Tech:** Spring Boot | React.js | MySQL | AWS | Docker  
 **Highlights:** 
 - 🚀 Handles 1,000+ concurrent users with sub-200ms latency
 - 📊 99.9% uptime with optimized backend APIs
