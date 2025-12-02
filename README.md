@@ -66,7 +66,7 @@
 
 ---
 
-### 📈 TrackWise - Real-Time Trading Platform
+### 📈 TradeTide - Real-Time Trading Platform
 > Enterprise-grade trading platform with real-time data processing and high-performance architecture
 
 **Tech Stack:** Spring Boot | React.js | MySQL | Docker  
@@ -76,7 +76,7 @@
 - 🔐 Secure transaction processing
 - ⚡ Performance-optimized backend APIs
 
-**[Repository](https://github.com/ayhemnouira/TrackWise)**
+**[Repository](https://github.com/ayhemnouira/TradeTide)**
 
 ---
 
