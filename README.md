@@ -80,17 +80,26 @@
 
 ---
 
-### 🛒 SwiftCart - Microservices E-Commerce Platform
-> Scalable e-commerce solution built with microservices architecture
+### 🎓 SkillHub - Learning & Career Platform
+> Enterprise microservices platform connecting professionals with courses and opportunities
 
-**Tech Stack:** Spring Cloud | Docker | Eureka | API Gateway | MongoDB  
-**Architecture:**
-- 🏗️ Multiple microservices with service discovery
-- 📦 Containerized deployment with Docker
-- ⚡ API Gateway for dynamic routing
-- 🔄 Database-per-service pattern for data isolation
+**Tech Stack:** Spring Boot 4.0 | Spring Cloud 2025.0.0 | MongoDB 8.0 | React | Docker  
+**Architecture Highlights:**
+- 🏗️ 9 independent microservices with Eureka service discovery
+- 🔐 Centralized authentication with JWT and Spring Security
+- 🌐 API Gateway with intelligent routing and circuit breakers
+- 📦 Containerized services with Docker
+- 🔄 Event-driven communication patterns
+- 📊 Health monitoring with Spring Boot Actuator
 
-**[Repository](https://github.com/ayhemnouira/SwiftCart)**
+**Core Services:**
+- Authentication & Authorization (OAuth 2.0 + JWT)
+- User Profile Management
+- Course Catalog & Enrollment System
+- Job Matching & Applications
+- Real-time Notifications
+
+**[Repository](https://github.com/ayhemnouira/skillhub-microservices)**
 
 ---
 
@@ -148,7 +157,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayhemnouira/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-roan-psi-26.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ayhemnouira.dev)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayhemnouira9@gmail.com)
 
 </div>
 
