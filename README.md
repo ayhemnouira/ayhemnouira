@@ -16,7 +16,7 @@ I specialize in **backend development** with Java and Spring Boot, while creatin
 💼 **Currently seeking Software Engineering opportunities**  
 📍 **Based in Monastir, Tunisia | Open to Remote**
 
-🌐 **[Portfolio](https://portfolio-roan-psi-26.vercel.app/)** | 📧 **ayhemnouira9@gmail.com** | 💼 **[LinkedIn](https://www.linkedin.com/in/ayhemnouira/)**
+🌐 **[Portfolio](https://portfolio-roan-psi-26.vercel.app/)** | 💼 **[LinkedIn](https://www.linkedin.com/in/ayhemnouira/)**
 
 ---
 
@@ -219,7 +219,6 @@ const currentFocus = {
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayhemnouira/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-roan-psi-26.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayhemnouira9@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayhemnouira)
 
 </div>
